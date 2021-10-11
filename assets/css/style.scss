@@ -1,17 +1,11 @@
 ---
 ---
 
-/*** IGNORE ***/
-/*@import "{{ site.theme }}";*/
-
 /*** EDIT ONLY BELOW HERE ***/
-
-/* SET FONTS */
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
 
 /* SET BODY STYLES **/
 body {
-	font-family: 'Roboto', sans-serif;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	line-height: 1.5;
 	color: #606c71;
