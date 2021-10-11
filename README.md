@@ -45,6 +45,8 @@ Then, paste the URL into the box where it is written, 'Your old repository’s c
 
 Once the import is completed, you will see a link to your new repository. You will also receive an email notification. 
 
+Finally, you must tell GitHub to use your new template. To do this, go to **Settings** and **Pages**, and under the **Source** section, change the **Branch** from **gh-pages** to **main**. Then click **Save**.   
+
 Now you can edit the files to make your own website.
 <hr>
 
