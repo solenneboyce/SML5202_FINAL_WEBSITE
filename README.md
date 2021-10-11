@@ -41,9 +41,10 @@ You will see a number of files are named with the .md file extension. That is: *
 First copy <a href="https://github.com/martinbarge/template-2021">the URL to this repository</a>.
 Next, go to the small plus + sign at the top right-hand corner of your GitHub account, and under the plus sign, select 'Import repository'.
 
-Then, paste the URL into the box where it is written, 'Your old repository’s clone URL'. Also, at this point, give a name to the repository in your own account where it says 'Your new repository details'.
+Then, paste the URL into the box where it is written, 'Your old repository’s clone URL'. Also, at this point, give a name to the repository where it says 'Your new repository details'. Then click the 'Begin import' button.
 
-Once the import is completed, you will receive an email notification along with a link to your copy of the files. 
+Once the import is completed, you will see a link to your new repository. You will also receive an email notification. 
 
 Now you can edit the files to make your own website.
+<hr>
 
