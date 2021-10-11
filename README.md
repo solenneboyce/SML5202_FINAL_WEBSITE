@@ -1,4 +1,4 @@
-# README template-2020
+# README template-2021
 
 ## Introduction
 
@@ -30,8 +30,20 @@ You will see a number of files are named with the .md file extension. That is: *
 
 1. **HTML Template** : The HTML template file of your site is named **default.html** and is located in the **&#95;layouts** folder. You will only need to edit this slightly to name the labels of your navigation bar.  Apart from that, you won't need to edit the HTML template at all - unless, of course, you want to get into deeper levels of customisation.
 
-1. **Stylesheet** : In the folder **assets/css**, you will find the **style.scss** file. .scss is a varient of css and works in the same way. You can edit this file to create custom styles for your site. For example, you will be able to change the colours of your banner, and make any other style adjustments you choose.
+2. **Stylesheet** : In the folder **assets/css**, you will find the **style.scss** file. .scss is a varient of css and works in the same way. You can edit this file to create custom styles for your site. For example, you will be able to change the colours of your banner, and make any other style adjustments you choose.
 
-1. **images** : This is the directory to store your image files. Inside the images folder you can find a **readme.md** file explaining how to use this directory.
+3. **images** : This is the directory to store your image files. Inside the images folder you can find a **readme.md** file explaining how to use this directory.
 
-1. **Config file** : Finally, the **&#95;config.yml** file is a configuration file, where you modify the settings for your site. You also use this file to set the mappings for your pages to the navigation bar.
+4. **Config file** : Finally, the **&#95;config.yml** file is a configuration file, where you modify the settings for your site. You also use this file to set the mappings for your pages to the navigation bar.
+
+## How to Import for your own use
+
+First copy <a href="https://github.com/martinbarge/template-2021">the URL to this repository</a>.
+Next, go to the small plus + sign at the top right-hand corner of your GitHub account, and under the plus sign, select 'Import repository'.
+
+Then, paste the URL into the box provided and give a name to the repository in your own account.
+
+Once the import is completed, you will receive an email notification along with a link to your copy of the files. 
+
+Now you can edit the files to make your own website.
+
