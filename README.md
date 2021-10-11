@@ -6,7 +6,7 @@ This repository is a basic template with which you can build your own website. Y
 
 The underlying template design uses a website building framework known as <a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/">Bootstrap 4</a>. Learning Bootstrap is quite complicated, but you can learn about it at <a href="https://www.w3schools.com/bootstrap4/">W3Schools Boostrap 4 Tutorials</a>
 
-The template provided here, though, implements Bootstrap within the conventions of GitHub Page, and uses the file structures of GitHib Pages to ease the process of publishing your pages.
+The template provided here, though, implements Bootstrap within the conventions of GitHub Pages, and uses the file structures of GitHib Pages to ease the process of publishing your pages.
 
 ## How to use
 
