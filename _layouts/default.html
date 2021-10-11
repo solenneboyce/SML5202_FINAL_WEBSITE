@@ -16,6 +16,15 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
+      
+           <!-- PAGE HEADER -->      
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+        <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+        <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
+</div>
+      </div>
+      <!-- END HEADER -->
 
 <!-- NAV BAR -->
  <nav class="navbar navbar-expand-md bg-dark navbar-dark fixed-top">
@@ -40,14 +49,7 @@
 </nav> 
 <!-- END NAV BAR -->
 
-      <!-- PAGE HEADER -->      
-<div class="jumbotron jumbotron-fluid">
-  <div class="container">
-        <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-        <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
-</div>
-      </div>
-      <!-- END HEADER -->
+ 
       
    <!-- <main id="content" class="main-content" role="main">-->
       <div class="container-fluid">
