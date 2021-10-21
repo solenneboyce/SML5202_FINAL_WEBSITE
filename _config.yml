@@ -6,7 +6,7 @@ description: This is the tag-line of my website.
 lang: en
 
 # --- List of links in the navigation bar --- #
-# --- Only change these if you change the name of your .md files!! --- #
+# --- Only change these if you change the name of your .md files --- #
 # --- And, only change the names of the HTML files e.g. page2.html --- #
 github:
   page1: index.html
