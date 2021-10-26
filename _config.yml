@@ -16,5 +16,8 @@ github:
   page5: page5.html
   
 navbar-links:
-  page2: Vocab
-  
+  page1: Home
+  page2: Vocabulary
+  page3: Grammar
+  page4: Listening
+  page5: Explore more
