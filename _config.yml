@@ -11,7 +11,10 @@ lang: en
 github:
   page1: index.html
   page2: page2.html
-    title: Vocab
   page3: page3.html
   page4: page4.html
   page5: page5.html
+  
+navbar-links:
+  page2: Vocab
+  
