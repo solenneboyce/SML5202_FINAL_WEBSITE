@@ -1,5 +1,5 @@
 ---
-title: 'page 2'
+title: Vocabulary
 ---
 
 <h1>Page 2</h1>
