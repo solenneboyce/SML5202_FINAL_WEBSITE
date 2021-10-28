@@ -1,5 +1,6 @@
 ---
 title: home
+lang: es
 ---
 
 <h1>Welcome</h1>
