@@ -1,5 +1,6 @@
+style="margin:10px;"
 
-
+{
 <h1>Les explications</h1>
 <h2>Sur cette page, vous trouverez en détail l'explication des expressions que vous venez de voir dans la page d'introduction.</h2>
   <br>
@@ -36,7 +37,7 @@ On utilise cette expression lorsqu’une personne veut sortir avec une autre, lu
   <i><p>Hier soir, Mathieu a essayé de draguer Sandrine toute la soirée, et il s’est pris un râteau!</p></i>
   <p>La première signification viendrait du fait de marcher sur un râteau et se le prendre dans la figure. La seconde serait que “râteau” découlerait de “rater” (= ne pas réussir).</p>
   <br>
-  <b><p>6.Être à cheval sur quelque chose</p></b>
+  <b><p>6. Être à cheval sur quelque chose</p></b>
   <p>Cette expression signifie “être très strict sur quelque chose” (une idée, des principes…).</p>
   <p>Par exemple,</p>
   <i><p>– Antoine ne veut jamais changer son emploi du temps, il m’exaspère!</p>
@@ -44,6 +45,6 @@ On utilise cette expression lorsqu’une personne veut sortir avec une autre, lu
   <p>Cette expression viendrait du monde de l’équitation (= du cheval), du fait qu’il faut être très strict sur ses gestes, ses mouvements par rapport au cheval.</p>
   
   
-  
+  }
   
   
