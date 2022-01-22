@@ -49,11 +49,7 @@ On utilise cette expression lorsqu’une personne veut sortir avec une autre, lu
   <i>– Antoine ne veut jamais changer son emploi du temps, il m’exaspère!
   <p>– Oui, je pense qu’il est trop à cheval sur ses principes… Il est trop strict!</i>
   <p>Cette expression viendrait du monde de l’équitation (= du cheval), du fait qu’il faut être très strict sur ses gestes, ses mouvements par rapport au cheval.</p>
-  
-  
-
-
-
+  <br>
  <p>7. Tiré par les cheveux</p>
   <img src="https://user-images.githubusercontent.com/94960769/150658797-8500c9ff-5476-42ce-b971-b60e094d47e2.jpg">
  <br>
