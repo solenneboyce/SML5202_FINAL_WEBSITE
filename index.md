@@ -16,7 +16,7 @@
  <p>2. Poser un lapin à quelqu’un</p>
  <br>
  <p>3. Tenir la chandelle</p>
- `<img src='images/tenir-la-chandelle' alt='tenirlachandelle' width="200" height="200" >`
+ 
  <br>
  <p>4. Prendre un coup de vieux</p>
  <br>
