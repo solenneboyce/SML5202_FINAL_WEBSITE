@@ -1,9 +1,4 @@
 
-
-<head>
- Idioms Français 
-</head>
-
 <body>
 
   <h1>Expressions Idiomatiques, Introduction</h1>
