@@ -1,6 +1,9 @@
----
-title: Explications
----
+
+<head>
+ Idioms Français 
+</head>
+
+<body>
 
 <h1>Les explications</h1>
 <h2>Sur cette page, vous trouverez en détail l'explication des expressions que vous venez de voir dans la page d'introduction.</h2>
