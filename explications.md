@@ -27,6 +27,7 @@ Effectivement, une chandelle c’est comme une bougie, et on a l’impression d�
   <p>– Eh bien ce n’est pas grave! On y va toi, moi et mon copain!</p>
   <p>– Oui, c’est ça, et moi je vais tenir la chandelle!</i>
   <br>
+  <br>
   <b>4. Prendre un coup de vieux</b>
   <img src="https://user-images.githubusercontent.com/94960769/150658788-1e083d49-555e-4ce5-bc74-0211e779f32b.jpg">
   <p>“Prendre un coup de vieux” signifie “vieillir beaucoup soudainement, très rapidement”.</p>
