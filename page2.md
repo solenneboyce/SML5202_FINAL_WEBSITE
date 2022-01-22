@@ -1,8 +1,10 @@
 ---
-title: Page2
+title: Explications
 ---
 
-<h1>Voici les explications</h1>
+<h1>Les explications</h1>
+<br>
+<h2>Sur cette page, vous trouverez en détail l'explication des expressions que vous venez de voir dans la page d'introduction.</h2>
  <br>
   <p>1. Tirer le diable par la queue</p>
   <p>“Tirer le diable par la queue” signifie qu’on n’a pas les ressources suffisantes pour vivre, qu’on a pas assez d’argent pour finir le mois.</p>
