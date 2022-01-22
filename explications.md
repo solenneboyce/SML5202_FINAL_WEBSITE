@@ -23,3 +23,27 @@ Effectivement, une chandelle c’est comme une bougie, et on a l’impression d�
   <i><p> – Tu sais Marie, demain, Paul ne peut pas venir avec nous au restaurant!
   <p> – Eh bien ce n’est pas grave! On y va toi, moi et mon copain!</p>
   <p> – Oui, c’est ça, et moi je vais tenir la chandelle! </p></i>
+ <br>
+  <b><p>4. Prendre un coup de vieux</p></b>
+  <p>“Prendre un coup de vieux” signifie “vieillir beaucoup soudainement, très rapidement”.</p>
+  <p>Par exemple,</p>
+  <i><p> Hier j’ai vu Jean-Marc, ça faisait deux ans que je ne l’avais pas vu. Oh là là, il a pris un coup de vieux! Je ne l’ai presque pas reconnu!</p></i>
+   <br>
+  <b><p>5. Se prendre un râteau</p></b>
+  <p>Tout d’abord, “un râteau” c’est un outil pour le jardinage qui sert à ramasser les feuilles. “Se prendre un râteau” ce n’est pas agréable.
+On utilise cette expression lorsqu’une personne veut sortir avec une autre, lui faire du charme, et que cela ne marche pas. Elle refuse.</p>
+  <p>Par exemple,</p>
+  <i><p> Hier soir, Mathieu a essayé de draguer Sandrine toute la soirée, et il s’est pris un râteau!</p></i>
+  <p>La première signification viendrait du fait de marcher sur un râteau et se le prendre dans la figure. La seconde serait que “râteau” découlerait de “rater” (= ne pas réussir).</p>
+    <br>
+  <b><p>6. Être à cheval sur quelque chose</p></b>
+  <p>Cette expression signifie “être très strict sur quelque chose” (une idée, des principes…).</p>
+  <p>Par exemple,</p>
+  <i><p> – Antoine ne veut jamais changer son emploi du temps, il m’exaspère!</p>
+<p>– Oui, je pense qu’il est trop à cheval sur ses principes… Il est trop strict!</p></i>
+  <p>Cette expression viendrait du monde de l’équitation (= du cheval), du fait qu’il faut être très strict sur ses gestes, ses mouvements par rapport au cheval.</p>
+  
+  
+  
+  
+  
