@@ -9,17 +9,17 @@ lang: fr
 # --- Only change these if you change the name of your .md files --- #
 # --- And, only change the names of the HTML files named after each colon: e.g. page2.html --- #
 github:
-  page1: index.html
-  page2: page2.html
+  page1: introduction.html
+  page2: explications.html
   page3: page3.html
   page4: page4.html
-  page5: page5.html
+  page5: quizfinal.html
   
 # --- List of links in the navigation bar --- #
 # --- Change the words after the colons to change your navigation labels --- #
 navbar-links:
-  page1: Home
-  page2: Page2
+  page1: Introduction
+  page2: Explications
   page3: Page3
   page4: Page4
-  page5: Page5
+  page5: Quiz final
