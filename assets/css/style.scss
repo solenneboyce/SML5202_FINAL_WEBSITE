@@ -6,6 +6,7 @@
 /*** SET BODY STYLES ***/
 body {
 	/** font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; **/
+	background-color: #555;
 	font-size: 16px;
 	line-height: 1.5;
 	color: #606c71;
@@ -15,7 +16,7 @@ body {
 #jumbotron {
 	text-align: center;
 	background: #392986;
-	color: aliceblue;
+	color: white;
 	background-image: linear-gradient(120deg, #155799, #ffffff, #991515);
 }
 
