@@ -10,7 +10,7 @@
    <p> – Finalement non… En ce moment, je tire le diable par la queue!</p></i>
   <p>Une des explications, notamment, serait que lorsqu’on n’a plus assez de moyens, on irait chercher le diable comme dernière solution. On lui tirerait la queue pour le solliciter et lui demander de l’aide.</p>
  <br>
- <b><p>2. Poser un lapin à quelqu’un</p></b>
+ <p><b>2. Poser un lapin à quelqu’un</b></p>
   <p>Cette expression signifie “ne pas aller à un rendez-vous quand il est prévu et faire attendre la personne pour rien”.</p>
   <p>Par exemple,</p>
   <i><p>Hier, j’ai attendu Nicolas pendant deux heures et il n’est pas venu cet imbécile! Il m’a posé un lapin!</p></i>
