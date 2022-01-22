@@ -1,8 +1,8 @@
 <h1>Quiz Final!</h1>
 <h2>Testez vos connaissances avec ce quiz à choix multiples, si vous obtenez 10/10 vous maîtrisez ces idiomes !</h2>
 
-div style='transform: scale(0.65); position: relative; top: -100px;'>
-  <h3>What fraction of a day is 6 hours?</h3>
+
+  <b><p>What fraction of a day is 6 hours?</p><b>
   <p>Choose 1 answer</p>
   <hr />
 
@@ -35,7 +35,7 @@ div style='transform: scale(0.65); position: relative; top: -100px;'>
       <input type='radio' name='option' value='1/6' id='option-14' style='transform: scale(1.6); margin-right: 10px; vertical-align: middle; margin-top: -2px;' />
       1/6</label>
     <span id='result-14'></span>
-  </div>
+ 
   <hr />
   <button type='button' onclick='displayAnswer1()' style='width: 100px; height: 40px; border-radius: 3px; background-color: lightblue; font-weight: 700;'>Submit</button>
 </div>
