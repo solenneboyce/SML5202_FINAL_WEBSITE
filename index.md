@@ -6,7 +6,7 @@
 
 <body>
 
-  <h1>Expressions Idiomatiques</h1>
+  <h1>Expressions Idiomatiques, Introduction</h1>
   <h2>On a choisi 10 expressions idiomatiques très sympas que vous pourrez apprendre et utiliser pour enrichir votre vocabulaire et améliorer votre expression orale en français! Vous aurez sûrement l’occasion d’entendre ces expressions et maintenant vous les comprendrez !</h2>
 <br>
   <p>1. Tirer le diable par la queue</p>
