@@ -13,7 +13,7 @@
  <b><p>2. Poser un lapin à quelqu’un</p></b>
   <p>Cette expression signifie “ne pas aller à un rendez-vous quand il est prévu et faire attendre la personne pour rien”.</p>
   <p>Par exemple,</p>
-  <i><p>Hier, j’ai attendu Nicolas pendant deux heures et il n’est pas venu cet imbécile! Il m’a posé un lapin!</p></>
+  <i><p>Hier, j’ai attendu Nicolas pendant deux heures et il n’est pas venu cet imbécile! Il m’a posé un lapin!</p></i>
   <p>On ne sait pas très bien d’où provient cette expression mais il semblerait qu’avant, le mot “poser” avait aussi le sens de “attendre”. Il semble également qu’un un lapin était un “dû” (lorsqu’on devait de l’argent à quelqu’un et qu’on ne le donnait pas). La signification viendrait de la combinaison de ces deux termes. Autrement dit, le poseur de lapin était celui qui faisait attendre son paiement!</p>
  <br>
   <b><p>3. Tenir la chandelle</p></b>
