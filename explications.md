@@ -1,6 +1,4 @@
-style="margin:10px;"
 
-{
 <h1>Les explications</h1>
 <h2>Sur cette page, vous trouverez en détail l'explication des expressions que vous venez de voir dans la page d'introduction.</h2>
   <br>
@@ -45,6 +43,6 @@ On utilise cette expression lorsqu’une personne veut sortir avec une autre, lu
   <p>Cette expression viendrait du monde de l’équitation (= du cheval), du fait qu’il faut être très strict sur ses gestes, ses mouvements par rapport au cheval.</p>
   
   
-  }
+
   
   
