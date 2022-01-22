@@ -18,6 +18,13 @@
   <p> – Tu vas t’acheter cette nouvelle voiture, finalement, Pierre? </p>
   <p> – Finalement non… En ce moment, je tire le diable par la queue!</p>
   <p>Une des explications, notamment, serait que lorsqu’on n’a plus assez de moyens, on irait chercher le diable comme dernière solution. On lui tirerait la queue pour le solliciter et lui demander de l’aide.</p>
-
+ 
+ <p>2. Poser un lapin à quelqu’un</p>
+  <p>Cette expression signifie “ne pas aller à un rendez-vous quand il est prévu et faire attendre la personne pour rien”.</p>
+  <p>Par exemple,</p>
+  <p> Hier, j’ai attendu Nicolas pendant deux heures et il n’est pas venu cet imbécile! Il m’a posé un lapin! </p>
+  <p> On ne sait pas très bien d’où provient cette expression mais il semblerait qu’avant, le mot “poser” avait aussi le sens de “attendre”. Il semble également qu’un un lapin était un “dû” (lorsqu’on devait de l’argent à quelqu’un et qu’on ne le donnait pas). La signification viendrait de la combinaison de ces deux termes. Autrement dit, le poseur de lapin était celui qui faisait attendre son paiement!</p>
+ 
+ 
 </body>
 </html>
