@@ -16,7 +16,21 @@
  <p>2. Poser un lapin à quelqu’un</p>
  <br>
  <p>3. Tenir la chandelle</p>
-
+ <br>
+ <p>4. Prendre un coup de vieux</p>
+ <br>
+ <p>5. Se prendre un râteau</p>
+ <br>
+ <p>6. Être à cheval sur quelque chose</p>
+ <br>
+ <p>7. Tiré par les cheveux</p>
+ <br>
+ <p>8. Avoir la gueule de bois</p>
+ <br>
+ <p>9. Raconter des salades</p>
+ <br>
+ <p>10. Faire quelque chose d’arrache-pied</p>
+ 
  
 </body>
 
