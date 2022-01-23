@@ -105,8 +105,7 @@ border-bottom:1px dotted gray;
  <span id="messageArea0">
 </span>
 </div>
-</a>
-</div>
+
 
 <script type="text/javascript">
 <!--
