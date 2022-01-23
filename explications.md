@@ -100,4 +100,4 @@ On utilise cette expression lorsqu’une personne veut sortir avec une autre, lu
   <br>
   <p>__________________________________</p>
   <br>
-  <p>Une fois que vous avez bien lu les explications et les exemples, passez à la première page d'exercices pour tester vos connaissances.</p>
+  <p>Une fois que vous avez bien lu les explications et les exemples, <a href="https://solenneboyce.github.io/SML5202_FINAL_WEBSITE/explications.html">cliquez ici</a>pour la video d'explication.</p>
