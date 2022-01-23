@@ -11,7 +11,7 @@ lang: fr
 github:
   page1: introduction.html
   page2: explications.html
-  page3: photoscorrespondantes.html
+  page3: video.html
   page4: remplirelestrous.html
   page5: quizfinal.html
   
@@ -20,6 +20,6 @@ github:
 navbar-links:
   page1: Introduction
   page2: Explications
-  page3: Photos correspondantes
+  page3: Video
   page4: Remplire les trous
   page5: Quiz final
