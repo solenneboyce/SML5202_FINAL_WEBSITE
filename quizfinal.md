@@ -2,84 +2,345 @@
 <h2>Testez vos connaissances avec ce quiz à choix multiples, si vous obtenez 10/10 vous maîtrisez ces idiomes !</h2>
 
 
-  <b><p>What fraction of a day is 6 hours?</p><b>
-  <p>Choose 1 answer</p>
-  <hr />
+<!DOCTYPE html>
 
-  <div id='block-11' style='padding: 10px;'>
-    <label for='option-11' style=' padding: 5px; font-size: 2.5rem;'>
-      <input type='radio' name='option' value='6/24' id='option-11' style='transform: scale(1.6); margin-right: 10px; vertical-align: middle; margin-top: -2px;' />
-      6/24</label>
-    <span id='result-11'></span>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags must come first in the head; any other head content must come after these tags -->
+    <meta name="description" content="Multiple Choice Questions - iDiv Health & Security Instructions">
+    <meta name="author" content="Christian Langer">
+    <link rel="icon" href="">
+
+    <title>iDiv Health &amp; Security Instructions</title>
+    <link type="text/css" rel="stylesheet" href="./css/bootstrap.min.css">    
+    
+    <link type="text/css" rel="stylesheet" href="./css/animate.css">
+
+    <link type="text/css" rel="stylesheet" href="./css/font-awesome.min.css">
+
+    <link type="text/css" rel="stylesheet" href="./css/custom.css">
+
+
+
+</head>
+
+<body>
+  
+  <div id="center">
+    <div class="quiz-container">
+      <div id="quiz">
+        <div id="quizquestionContainer">
+          <div id="quizoptionContainer"></div>
+          <div id="results"></div>
+        </div>
+        <div id="quizresultsContainer"></div>
+      </div>
+      <button id="confirm" class="btn btn-default">Confirm</button>
+
+      <button id="next" class="btn btn-default">Next Question</button>
+
+      <button id="submit" class="btn btn-default">Show My Result</button>
+    </div>
+    
   </div>
-  <hr />
-
-  <div id='block-12' style='padding: 10px;'>
-    <label for='option-12' style=' padding: 5px; font-size: 2.5rem;'>
-      <input type='radio' name='option' value='6' id='option-12' style='transform: scale(1.6); margin-right: 10px; vertical-align: middle; margin-top: -2px;' />
-      6</label>
-    <span id='result-12'></span>
-  </div>
-  <hr />
-
-  <div id='block-13' style='padding: 10px;'>
-    <label for='option-13' style=' padding: 5px; font-size: 2.5rem;'>
-      <input type='radio' name='option' value='1/3' id='option-13' style='transform: scale(1.6); margin-right: 10px; vertical-align: middle; margin-top: -2px;' />
-      1/3</label>
-    <span id='result-13'></span>
-  </div>
-  <hr />
-
-  <div id='block-14' style='padding: 10px;'>
-    <label for='option-14' style=' padding: 5px; font-size: 2.5rem;'>
-      <input type='radio' name='option' value='1/6' id='option-14' style='transform: scale(1.6); margin-right: 10px; vertical-align: middle; margin-top: -2px;' />
-      1/6</label>
-    <span id='result-14'></span>
- 
-  <hr />
-  <button type='button' onclick='displayAnswer1()' style='width: 100px; height: 40px; border-radius: 3px; background-color: lightblue; font-weight: 700;'>Submit</button>
-</div>
-<a id='showanswer1'></a>
+    
+<!-- jQuery -->
+<script src="./js/jquery.min.js"></script>
+<!-- Bootstrap JS -->
+<script type="text/javascript" src="./js/bootstrap.min.js"></script>
+<!-- link and activate wow js -->
+<script type="text/javascript" src="./js/wow.js"></script>
 <script>
-  //    The function evaluates the answer and displays result
-  function displayAnswer1() {
-    if (document.getElementById('option-11').checked) {
-      document.getElementById('block-11').style.border = '3px solid limegreen'
-      document.getElementById('result-11').style.color = 'limegreen'
-      document.getElementById('result-11').innerHTML = 'Correct!'
-    }
-    if (document.getElementById('option-12').checked) {
-      document.getElementById('block-12').style.border = '3px solid red'
-      document.getElementById('result-12').style.color = 'red'
-      document.getElementById('result-12').innerHTML = 'Incorrect!'
-      showCorrectAnswer1()
-    }
-    if (document.getElementById('option-13').checked) {
-      document.getElementById('block-13').style.border = '3px solid red'
-      document.getElementById('result-13').style.color = 'red'
-      document.getElementById('result-13').innerHTML = 'Incorrect!'
-      showCorrectAnswer1()
-    }
-    if (document.getElementById('option-14').checked) {
-      document.getElementById('block-14').style.border = '3px solid red'
-      document.getElementById('result-14').style.color = 'red'
-      document.getElementById('result-14').innerHTML = 'Incorrect!'
-      showCorrectAnswer1()
-    }
-  }
-  // the functon displays the link to the correct answer
-  function showCorrectAnswer1() {
-    let showAnswer1 = document.createElement('p')
-    showAnswer1.innerHTML = 'Show Corrent Answer'
-    showAnswer1.style.position = 'relative'
-    showAnswer1.style.top = '-180px'
-    showAnswer1.style.fontSize = '1.75rem'
-    document.getElementById('showanswer1').appendChild(showAnswer1)
-    showAnswer1.addEventListener('click', () => {
-      document.getElementById('block-11').style.border = '3px solid limegreen'
-      document.getElementById('result-11').style.color = 'limegreen'
-      document.getElementById('result-11').innerHTML = 'Correct!'
-      document.getElementById('showanswer1').removeChild(showAnswer1)
-    })
-  }
+    new WOW().init();
 </script>
+<!-- Fetch Questions from JSON -->
+<script type="text/javascript" src="./js/questions.js"></script>
+
+<script>
+
+  // wrap the whole quiz in an IIFE (immediately invoked function expression), 
+  // which is a function that runs as soon as you define it. 
+  // That way, your variables will stay out of global scope and your quiz won’t interfere with any other scripts running on the page.
+    
+  (function() {
+  
+
+  // -----------------------
+  // Build the quiz
+  // -----------------------
+
+  function buildQuiz() {
+    // we'll need a place to store the HTML output
+    const output = [];
+
+    // for each question...
+    // we’re using an arrow function to perform our operations on each question. Because this is in a forEach loop, we get the current value, the index, and the array itself as parameters. We only need the current value and the index, which for our purposes, we’ll name currentQuestion and questionNumber respectively.
+    myQuestions.forEach((currentQuestion, questionNumber) => {
+      // we'll want to store the list of answer choices
+      const answers = [];
+      
+      // and for each available answer...
+      for (abc in currentQuestion.answers) {
+        // ...add an HTML radio button
+        // we’re using template literals, which are strings but more powerful. We’ll make use of the following features:
+        // Multi-line capabilities
+        // No more having to escape quotes within quotes because template literals use backticks instead
+        // String interpolation, so you can embed JavaScript expressions right into your strings like this: ${code_goes_here}
+        answers.push(
+          `<input id="question${questionNumber}${abc}" type="radio" name="question${questionNumber}" class="with-font" value="${abc}"> 
+          <label for="question${questionNumber}${abc}">${currentQuestion.answers[abc]}</label>`
+        );
+      }
+
+      // add this question and its answers to the output
+      output.push(
+        `<div class="slide">
+            <div id="bg">
+              ${currentQuestion.background}
+            </div>
+            <div id="title" class="wow slideInDown"> 
+              <h2>${currentQuestion.title}</h2>
+            </div>
+            <div class="question wow fadeIn" data-wow-delay="1s" data-wow-duration="2s"> 
+              <p>${currentQuestion.question}</p>
+            </div>
+            <div class="answers wow fadeIn" data-wow-delay="2s" data-wow-duration="2s">
+              <p>${answers.join("")}</p>
+            </div>
+         </div>`
+      );
+
+    });
+
+    // finally combine our output list into one string of HTML and put it on the page
+    quizContainer.innerHTML = output.join("");
+
+
+  };
+
+  // -----------------------
+  // Show Answers
+  // -----------------------
+
+
+function showAnswer() {
+
+    const answerTextContainers = quizContainer.querySelectorAll(".answers");
+
+    const answersArray = [];
+
+    // for each question...
+    myQuestions.forEach((currentQuestion, questionNumber) => {
+
+      
+      const answerTextContainer = answerTextContainers[questionNumber];
+      
+      const selector2 = `input[name=question${questionNumber}]:checked`;
+
+      const userAnswer2 = (answerTextContainer.querySelector(selector2) || {}).value;
+
+      if (userAnswer2 == currentQuestion.correctAnswer ) {
+        
+        answersArray.push(
+          `<div class="slide">
+            <div class="answerText wow slideInRight">
+              <p>${currentQuestion.correctAnswerText}</p>
+            </div>
+          </div>`
+        );
+
+      } else {
+
+        answersArray.push(
+          `<div class="slide">
+            <div class="answerText wow slideInRight">
+              <p>${currentQuestion.falseAnswerText}</p>
+            </div>
+          </div>`
+        );
+
+      }
+
+
+    });
+
+    // finally combine our results list into one string of HTML and put it on the page
+    resultsTextContainer.innerHTML = answersArray.join("");
+
+    // activate slide
+    const answerSlides = resultsTextContainer.querySelectorAll(".slide");
+    answerSlides[nSlide].classList.add("active-slide");
+    nSlide = nSlide + 1;
+
+    // Show Next Button
+    nextButton.classList.remove("displaynone");
+    // Disable Answers and Button
+    confirmButton.classList.add("disabled");
+    $('.answers').addClass('disabled');
+
+    // Show Submit Button on last slide
+    // slide Index: 0,1,2,3,4 and Slide length: 5 slides
+    if (currentSlide === slides.length - 1) {
+      submitButton.style.display = "inline-block";
+    }
+
+};
+
+
+
+
+  // -----------------------
+  // Show Results
+  // -----------------------
+
+  function showResults() {
+    // gather answer containers from our quiz
+    const answerContainers = quizContainer.querySelectorAll(".answers");
+
+    // keep track of user's answers
+    let numCorrect = 0;
+
+    // for each question...
+    myQuestions.forEach((currentQuestion, questionNumber) => {
+      // find selected answer
+      // First, we’re making sure we’re looking inside the answer container for the current question.
+      const answerContainer = answerContainers[questionNumber];
+      // In the next line, we’re defining a CSS selector that will let us find which radio button is checked.
+      const selector = `input[name=question${questionNumber}]:checked`;
+      // Then we’re using JavaScript’s querySelector to search for our CSS selector in the previously defined answerContainer. 
+      // this means that we’ll find which answer’s radio button is checked. Finally, we can get the value of that answer by using .value.
+      // But what if the user left an answer blank? Then using .value would cause an error because you can’t get the value of something that’s not there. 
+      // To solve this, we’ve added ||, which means “or” and {} which is an empty object.
+      const userAnswer = (answerContainer.querySelector(selector) || {}).value;
+      // if answer is correct
+      if (userAnswer === currentQuestion.correctAnswer) {
+        // add to the number of correct answers
+        numCorrect++;
+      }
+    });
+
+    // create dynamic quiz length
+    const quizLength = Number(`${myQuestions.length}`);
+    // calculate the half of the length
+    const quizHalf = Number(`${myQuestions.length}`)/2;
+
+    // show number of correct answers out of total
+    if (numCorrect === quizLength) {
+    resultsContainer.innerHTML = `<div class="wow slideInDown"><h2>Congratulations!</h2></div><div class="wow fadeIn" data-wow-delay="1s" data-wow-duration="2s"><p>Very good, you seem to be a pro!</p><p>You answered ${numCorrect} out of ${myQuestions.length} questions correct.</p><a href="http://geobon.org"><button class="btn btn-default">My Dashboard</button></a></div>`;
+    } else if (numCorrect >= quizHalf && numCorrect < quizLength ) {
+      resultsContainer.innerHTML = `<div class="wow slideInDown"><h2>Not bad...</h2></div><div class="wow fadeIn" data-wow-delay="1s" data-wow-duration="2s"><p>but not enough to be a winner.</p><p>You answered just ${numCorrect} out of ${myQuestions.length} questions correct.</p><a href="./index.html"><button id="playAgain" class="btn btn-default">Play again</button></a></div>`;
+    } else {
+      resultsContainer.innerHTML = `<div class="wow slideInDown"><h2>Very bad...</h2></div><div class="wow fadeIn" data-wow-delay="1s" data-wow-duration="2s"><p>You need to practice! All employees need to be familiar with the iDiv Health & Security rules.</p><p>You answered just ${numCorrect} out of ${myQuestions.length} questions correct.</p><a href="./index.html"><button id="playAgain" class="btn btn-default">Play again</button></a></div>`;
+    }
+    
+    // switch off Title, Question and Answers
+    $('#title h2').css('display','none');
+    $('.question').css('display','none');
+    $('.answers').css('display','none');
+    submitButton.classList.add("displaynone");
+    nextButton.classList.add("displaynone");
+    confirmButton.classList.add("displaynone");
+    resultsTextContainer.innerHTML = '';
+
+  };
+
+
+  // -----------------------
+  // Show Slides
+  // -----------------------
+
+
+  function showSlide(n) {
+    slides[currentSlide].classList.remove("active-slide");
+    slides[n].classList.add("active-slide");
+    currentSlide = n;
+    
+    // show confirmButton by default
+    confirmButton.style.display = "inline-block";
+    // and switch off other Buttons
+    submitButton.style.display = "none";
+    nextButton.classList.add("displaynone"); 
+    
+  };
+
+  // -----------------------
+  // Show Next Slide
+  // -----------------------
+
+  function showNextSlide() {
+    
+    showSlide(currentSlide + 1);
+
+    resultsTextContainer.innerHTML = '';
+
+    // show Answers Options and confirmButton again
+    confirmButton.classList.remove("disabled");
+    $('.answers').removeClass('disabled');
+
+  };
+
+
+  
+
+
+
+  // -----------------------
+  // Get HTML ID's for quiz
+  // -----------------------
+
+  const quizContainer = document.getElementById("quizoptionContainer");
+
+  const resultsContainer = document.getElementById("results");
+
+  const resultsTextContainer = document.getElementById("quizresultsContainer");
+
+  
+
+  // -----------------------
+  // Display quiz right away
+  // -----------------------
+
+  buildQuiz();
+
+
+  // -----------------------
+  // Get HTML ID's for buttons & slides
+  // -----------------------
+
+  const confirmButton = document.getElementById("confirm");
+
+  const nextButton = document.getElementById("next");
+
+  const submitButton = document.getElementById("submit");
+
+  const slides = document.querySelectorAll(".slide");
+
+  const answers = document.querySelectorAll(".answers");
+
+  // -----------------------
+  // Show Starting Slide (Index)
+  // -----------------------
+
+  let currentSlide = 0;
+  let nSlide = 0;
+  showSlide(0);
+
+  // -----------------------
+  // Click Events
+  // -----------------------
+
+  confirmButton.addEventListener("click", showAnswer);
+
+  nextButton.addEventListener("click", showNextSlide);
+
+  submitButton.addEventListener("click", showResults);
+
+})();
+
+</script>
+
+</body>
+</html>
