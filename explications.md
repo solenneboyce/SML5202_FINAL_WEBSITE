@@ -97,4 +97,7 @@ On utilise cette expression lorsqu’une personne veut sortir avec une autre, lu
   <i>– Tu sais que le patron nous a demandé de finir tout le projet avant lundi!
   <p>– Non! Eh ben dis donc, il va falloir travailler d’arrache-pied!</i>
   <p>On pense que “arrache-pied” viendrait de “arracher les pieds du sol”, dans le sens de “se bouger, être en mouvement”. Cela voulait dire qu’on faisait quelque chose en se bougeant, en étant dynamique rapidement.</p>
-  
+    <br>
+  <p>__________________________________</p>
+   <br>
+  <p>Une fois que vous avez bien lu les explications et les exemples, passez à la première page d'exercices pour tester vos connaissances.</p>
