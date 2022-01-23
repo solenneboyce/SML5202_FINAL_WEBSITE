@@ -230,3 +230,7 @@ function clearMessageArea(exNum){
 }
 // -->
 </script>
+
+<br>
+
+<p> Bravo! Passez maintenant à la dernière page pour le quiz final,<a href="https://solenneboyce.github.io/SML5202_FINAL_WEBSITE/quizfinal.html">cliquez ici</a>.</p>
