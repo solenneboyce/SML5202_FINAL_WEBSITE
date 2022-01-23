@@ -105,9 +105,5 @@ border-bottom:1px dotted gray;
  <span id="messageArea0">
 </span>
 </div>
-<div style="margin:10px 0;font-size:80%;color:gray;">
-This exercise has been made using a free generator and script at <a href="http://random-idea-english.blogspot.com">
-<span style="color:#3399bb;font-family:georgia;font-weight:bold;">
-Random Idea English</span>
 </a>
 </div>
