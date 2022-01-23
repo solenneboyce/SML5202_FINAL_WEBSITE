@@ -1,7 +1,7 @@
 <h1>Exercise - remplissez les trous!</h1>
 <br>
 <h2>Remplissez les blancs pour compléter l'expression idiomatique.</h2>
-
+<br>
 <style type="text/css">
 <!-- 
 
