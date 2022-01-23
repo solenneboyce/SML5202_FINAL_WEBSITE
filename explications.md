@@ -60,7 +60,7 @@ On utilise cette expression lorsqu’une personne veut sortir avec une autre, lu
   <br>
   <p>__________________________________</p>
   <br>
-  <p>7. Tiré par les cheveux</p>
+  <b>7. Tiré par les cheveux</b>
   <img src="https://user-images.githubusercontent.com/94960769/150658797-8500c9ff-5476-42ce-b971-b60e094d47e2.jpg">
   <p>“Tiré par les cheveux” signifie que quelque chose n’est pas vraiment crédible en raison d’un manque de logique, de clarté, de fluidité dans le propos.</p>
   <p>Par exemple,</p>
@@ -70,7 +70,7 @@ On utilise cette expression lorsqu’une personne veut sortir avec une autre, lu
   <br>
   <p>__________________________________</p>
   <br>
-  <p>8. Avoir la gueule de bois</p>
+  <b>8. Avoir la gueule de bois</b>
   <img src="https://user-images.githubusercontent.com/94960769/150658799-8ae996b0-1d0d-488c-8ba5-0cccd09bd7f9.jpg">
   <p>“Avoir la gueule de bois” c’est “se sentir mal quand on a trop bu d’alcool la veille” (= le jour d’avant).</p>
   <p>Par exemple,</p>
@@ -80,7 +80,7 @@ On utilise cette expression lorsqu’une personne veut sortir avec une autre, lu
   <br>
   <p>__________________________________</p>
   <br>
-  <p>9. Raconter des salades</p>
+  <b>9. Raconter des salades</b>
   <img src="https://user-images.githubusercontent.com/94960769/150658801-28ed0a80-2330-4877-aff2-c200274b7801.jpg">
   <p>Cette expression signifie “qu’on raconte n’importe quoi” (des bêtises, des choses fausses).</p>
   <p>Par exemple,</p>
@@ -90,7 +90,7 @@ On utilise cette expression lorsqu’une personne veut sortir avec une autre, lu
   <br>
   <p>__________________________________</p>
   <br>
-  <p>10. Faire quelque chose d’arrache-pied</p>
+  <b>10. Faire quelque chose d’arrache-pied</b>
   <img src="https://user-images.githubusercontent.com/94960769/150658803-252504d9-c193-4451-8bbb-bddd9b8ef8e0.jpg">
   <p>Cette expression signifie “faire quelque chose avec de l’acharnement, en s’efforçant énormément”.</p>
   <p>Par exemple,</p>
