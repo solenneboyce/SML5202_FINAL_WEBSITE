@@ -14,6 +14,7 @@
  <br>
  <p>3. Tenir la chandelle</p>
  <img src="https://user-images.githubusercontent.com/94960769/150649521-77dfb7dd-69ac-4df9-b124-92f57782a072.jpg">
+  <A HREF="https://upload.wikimedia.org/wikipedia/commons/b/ba/LL-Q150_%28fra%29-WikiLucas00-tenir_la_chandelle.wav"> Click here to hear the audio file.</A>
  <br>
  <p>4. Prendre un coup de vieux</p>
   <img src="https://user-images.githubusercontent.com/94960769/150658788-1e083d49-555e-4ce5-bc74-0211e779f32b.jpg">
