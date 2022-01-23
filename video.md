@@ -3,9 +3,9 @@
 
 
 
-      <br />
-      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=_f15lARYd_E&t=80s" frameborder="0" allowfullscreen></iframe>
-      </iframe>
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=_f15lARYd_E&t=80s">
+</iframe>
 
 
 <p>Qu'avez-vous pensé de cela? Pensez-vous pouvoir passer à certains exercices ? Cliquez ici pour passer aux exercices.</p>
