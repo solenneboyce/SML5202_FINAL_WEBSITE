@@ -111,6 +111,10 @@ border-bottom:1px dotted gray;
 <script type="text/javascript">
 <!--
 
+var clickedWord=""
+var ansA=[]
+ansA[0]=["diable","lapin","chandelle","vieux","râteau","cheval","cheveux","gueule","salades","pied"]
+
 function checkAnsBoxAnswers(exNum){ 
   var ca=0
   for(var c=0;c<ansA[exNum].length;c++){
@@ -202,6 +206,28 @@ function showAnsBoxAnswers(exNum){
     }
   }
 }
+function clearAnsBoxAnswers(exNum){
+  for(var c=0;c<ansA[exNum].length;c++){
+  document.getElementById("ex"+exNum+"AnsBox"+c).value=""
+  document.getElementById("ex"+exNum+"AnsBox"+c).style.color="black"
+  document.getElementById("ex"+exNum+"AnsBox"+c).style.fontWeight="normal"
+  }
+  clearMessageArea(exNum)
+}
 
+
+function clearAnsBoxInvisibleAnswers(exNum){
+  for(var c=0;c<ansA[exNum].length;c++){
+    document.getElementById("ex"+exNum+"AnsBox"+c).value=""
+    document.getElementById("ex"+exNum+"AnsBox"+c).style.color="black"
+    document.getElementById("ex"+exNum+"AnsBox"+c).style.fontWeight="normal"
+    document.getElementById("ex"+exNum+"TickBox"+c).innerHTML=""
+  }
+  clearMessageArea(exNum)
+}
+
+function clearMessageArea(exNum){
+  document.getElementById("messageArea"+exNum).innerHTML=""
+}
 // -->
 </script>
