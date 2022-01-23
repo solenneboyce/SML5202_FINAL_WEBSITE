@@ -47,7 +47,7 @@
 <iframe src="https://record.reverb.chat/embed/S0CoheRlcU924WEJvdlw" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="100px" marginwidth="100px" height="100px" width="40%" allowfullscreen></iframe>
   <p>________________________________</p>
   <br>
-  <p>Une fois que vous avez écouté les audios et pensé à ce que chaque idiome pourrait signifier, <a href="https://solenneboyce.github.io/SML5202_FINAL_WEBSITE/explications.html">cliquez ici</a>pour la page d'explication .</p>
+  <p>Une fois que vous avez écouté les audios et pensé à ce que chaque idiome pourrait signifier, <a href="https://solenneboyce.github.io/SML5202_FINAL_WEBSITE/explications.html">cliquez ici</a> pour la page d'explication .</p>
 
 </body>
 
